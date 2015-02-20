@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15.625, 24" name="ProFMModel">
+  <DataContextMoniker Name="/ProFMModelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="648433ca-e36b-49a4-ba37-5b8c9c6092c3" absoluteBounds="2.625, 0.625, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblDogovori" />
+      <nestedChildShapes>
+        <elementListCompartment Id="75e99bca-d1cc-4076-8aba-f963dafbc2f1" absoluteBounds="2.64, 1.085, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9556f86b-525d-4cf3-98e3-7a670cd36ad1" absoluteBounds="4.875, 0.5, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblFaktura_Dobavuvaci" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9aa990f0-16ee-4fb8-ba91-13f86422aece" absoluteBounds="4.89, 0.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd24b609-fb4c-42b7-9486-960818e5c257" absoluteBounds="7, 0.5, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblFakturi_Zgradi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d4420e6-e2b1-48cf-97b1-b3f1bf5a1aab" absoluteBounds="7.015, 0.96, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8e7af5d0-8195-4c9b-b02a-e5956563af75" absoluteBounds="5.125, 3.625, 2.5, 2.3478011067708335">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniKopiiOdFakturaZaSopstvenici" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34aefa1a-98ac-456e-9981-646bdd90b79d" absoluteBounds="5.14, 4.085, 2.4699999999999998, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="33ee9c38-e6ba-43e8-8093-1db46004e139" absoluteBounds="2.75, 9, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblOdnesuvanje_Stanar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df61f5b0-e2d8-402d-bf8e-e2be41ecee34" absoluteBounds="2.765, 9.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6acda1c8-3322-42e7-bbf2-6e83bac8e803" absoluteBounds="7.625, 8.375, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblSostanociZgradi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df911cc8-80fc-438f-ae06-be5efd272951" absoluteBounds="7.64, 8.835, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cde2b5c3-b91a-447d-bd76-851b3856ee5b" absoluteBounds="2.75, 10.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblStanovi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ded9d295-e5b9-4ffb-8f58-2045df9f6864" absoluteBounds="2.765, 11.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="121679e5-0295-4acc-9b70-e9c978f37327" absoluteBounds="10.125, 7.875, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblUplati_Stanari" />
+      <nestedChildShapes>
+        <elementListCompartment Id="975379fa-24c7-47b4-aa31-7dc89b0e7b09" absoluteBounds="10.14, 8.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0919e1e7-3aac-434d-96f2-6c41c78f04fd" absoluteBounds="2.625, 13.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tbl_IzdadeniKarticiZgrada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43b8e978-d746-4349-9bed-3b51d963adac" absoluteBounds="2.64, 13.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8912374d-e3cb-4e2b-824e-3ff94c0a59dd" absoluteBounds="3.5, 9.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblSaldoZgrada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ed952dc-6599-45ab-9c30-db10d69a6e93" absoluteBounds="3.5150000000000006, 10.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9ae513e3-d2cd-4efa-8063-fc9f2d475aaa" absoluteBounds="2.625, 15.75, 2.625, 2.3478011067708335">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniKopiiFakturiCistenjeStanar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="703fe464-a5e3-4794-b9a5-3dea7b1000b6" absoluteBounds="2.6399999999999997, 16.21, 2.5949999999999998, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="21aa96fa-3e57-4689-8e3a-3d029a0f3a08" absoluteBounds="2.875, 3.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblPrviOpomeniPredTuzba" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6500709-6861-4b2e-b681-5b048ce8772c" absoluteBounds="2.89, 4.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="533d036f-f1b7-4715-9ecf-0743f01801de" absoluteBounds="2.625, 5.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblVtoriOpomeniPredTuzba" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d63950f4-8a24-4648-beea-bcf695efe1ff" absoluteBounds="2.6400000000000006, 6.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd0c55de-2d5c-4c50-8cdd-bdda6dd2e94d" absoluteBounds="7.25, 4.25, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzvodi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4ffa0aa7-1039-4c3a-b5d5-c3476b7f4b12" absoluteBounds="7.265, 4.71, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c5c6f1e9-fc75-4d1d-8445-3d1bab1b8589" absoluteBounds="0.5, 13.25, 2, 5.4246240234375">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblSopstvenici_Stan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a2d5257e-3df5-48df-bd79-34cb02acd1a5" absoluteBounds="0.515, 13.71, 1.9700000000000002, 4.8646240234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1299a660-bd84-4c8f-9532-3a5c19ab74c9" absoluteBounds="8.5, 12.125, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblZgrada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8e40124b-9144-45c8-91d7-b01eb2cb3eb6" absoluteBounds="8.515, 12.585, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.8125 : 12.125); (9.8125 : 0.59375); (9 : 0.59375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ProFMModelDataContext/tblZgrada/tblZgrada_tblFakturi_Zgradi" />
+      <nodes>
+        <classShapeMoniker Id="1299a660-bd84-4c8f-9532-3a5c19ab74c9" />
+        <classShapeMoniker Id="bd24b609-fb4c-42b7-9486-960818e5c257" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.0625 : 12.125); (9.0625 : 11.6843082682292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ProFMModelDataContext/tblZgrada/tblZgrada_tblSostanociZgradi" />
+      <nodes>
+        <classShapeMoniker Id="1299a660-bd84-4c8f-9532-3a5c19ab74c9" />
+        <classShapeMoniker Id="6acda1c8-3322-42e7-bbf2-6e83bac8e803" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="da0cde5f-5029-4c0e-83c5-11b90304ff4e" absoluteBounds="4.625, 14.25, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblZaostanatDolg_ZgradaKonUpravitel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e62e1db-fd37-4e93-aa8f-32fa1d439c96" absoluteBounds="4.64, 14.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9d74f85a-7d1c-46a8-b02d-0058864e6d04" absoluteBounds="0.5, 14.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblPecatenjeFinansiskaKarticaZgradaUpravitel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8dddc723-8383-4d20-975b-6185011e6586" absoluteBounds="0.51500000000000057, 14.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19f47d26-b5fc-4d3a-9c81-835b1efd5512" absoluteBounds="0.75, 19.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblPrvaOpomenaPredTuzbaZaednicaStanovi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b2b19f3-8126-4050-a3c7-692b59993ceb" absoluteBounds="0.765, 19.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d308654-0206-420b-965b-6aa53aa2e36a" absoluteBounds="0.75, 21.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblVtoriOpomeniPredTuzbaZaednicaStanari" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9eb10c57-b0b9-4c12-81b6-e8b8d6167ca2" absoluteBounds="0.76500000000000057, 21.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6c66394-547c-401b-ae11-f219be73e9ed" absoluteBounds="9, 17.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblArhivskiBrUpravitel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="160d2caf-34ec-4b93-9807-fcdda51d54e1" absoluteBounds="9.015, 17.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3323058-54f3-40f9-8488-47322c414739" absoluteBounds="0.5, 3.375, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniFakturiZaUpravuvanje" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ab3cff7-c460-45b5-8665-0dc138412c71" absoluteBounds="0.51500000000000012, 3.835, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7063cb4c-651d-4428-a1f9-bdd5c995a57b" absoluteBounds="0.5, 7.125, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniFakturiBoja" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d470a1be-8c3f-4e14-a1af-9ff235ad0123" absoluteBounds="0.515, 7.5850000000000009, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="61872250-1298-42a6-8976-01584b324add" absoluteBounds="6.875, 15.625, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniFakturiCistenjeStanovi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7aa8c4d3-9884-4f11-a090-db9783abc1e3" absoluteBounds="6.89, 16.085, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc327f72-ff43-422b-b335-6d5b1b2d405f" absoluteBounds="4, 18.75, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniFakturiZaCistenje" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b70605b-b71d-4bad-a00f-d23f25582223" absoluteBounds="4.015, 19.21, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32334110-476c-41b9-943b-22f5dbf8fa76" absoluteBounds="6.75, 21, 2, 2.5401025390625">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblArhivskiBrojZgradi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2cbba740-3922-4cfe-8248-e688994427b4" absoluteBounds="6.765, 21.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="02ecef9b-9dfc-4596-9a76-3df6bde10fd4" absoluteBounds="0.5, 0.5, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblDobavuvaci" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af8896de-0d9f-4459-8ea5-ca6929c8e99c" absoluteBounds="0.515, 0.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cbb1fb44-7312-4b62-83d1-94d17ec7da97" absoluteBounds="10.625, 11.875, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblPecatenje_FinansiskaKarticaStanar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1f7baa5-3f45-4e75-9f95-e8f9ea2c717a" absoluteBounds="10.64, 12.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b052a2b-31a3-4524-a8af-f4a5b866c513" absoluteBounds="4, 3.875, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblOdluka" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e024fa88-abe5-4f87-b32d-d4d517e7b136" absoluteBounds="4.015, 4.335, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd302699-3729-4a1e-bb00-7935e008fdbb" absoluteBounds="6.25, 9.25, 2, 5.2323225911458326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblOslobodeniStan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4878dbc-a97d-4028-ae31-31d479397f0d" absoluteBounds="6.265, 9.71, 1.9700000000000002, 4.672322591145833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c165afb6-8eb6-4ee4-aa9e-b38f71ab486a" absoluteBounds="12.625, 1.875, 2, 3.1170068359375">
+      <DataClassMoniker Name="/ProFMModelDataContext/ZgradaFondovi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0ef97ee3-3cd6-41fc-9ff0-9fefe80f2b95" absoluteBounds="12.64, 2.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fb38b0e-a8bf-424c-8c3e-0bba43bd8eb8" absoluteBounds="13.375, 5.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblVraboteni" />
+      <nestedChildShapes>
+        <elementListCompartment Id="380a59b7-827c-4711-8b4d-d228803f0253" absoluteBounds="13.39, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26ca13d0-36a8-4dd3-9339-45f577fb8d2f" absoluteBounds="10, 0.75, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/ProFMModelDataContext/tblIzdadeniFakturi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f1b2ca0e-4c3c-4ee1-adc5-22aff2c1d140" absoluteBounds="10.015, 1.21, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

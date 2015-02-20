@@ -1,0 +1,2247 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tblVlez>
+    <SifraVlez>001</SifraVlez>
+    <Ulica>00001</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>1</ZadolzuvanjeID>
+    <BrojStanovi>11</BrojStanovi>
+    <Komentar>Марксова 23</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001869-17</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001870-14</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>002</SifraVlez>
+    <Ulica>00002</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>5</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димо Наредникот А1/2</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001856-56</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001857-53</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>003</SifraVlez>
+    <Ulica>00003</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>1</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Моша Пијаде 285 Д</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001867-23</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001868-20</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>004</SifraVlez>
+    <Ulica>00002</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димо Наредникот Б2/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001850-74</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001851-71</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>005</SifraVlez>
+    <Ulica>00004</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>1</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Точила (Војводинска) Ц4 (91)</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001861-41</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001862-38</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>006</SifraVlez>
+    <Ulica>00002</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димо Наредникот Б2/3</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка </BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001852-68</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001853-65</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>007</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Димче Лахчански 66</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001895-36</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001896-33</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>008</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димче Лахчански 17</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001877-90</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001878-87</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>009</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>Димче Лахчански 55</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001893-42</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001894-39</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>010</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>29</BrojStanovi>
+    <Komentar>Димче Лахчански 43</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001879-84</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001880-81</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>011</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Јадранска 9</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001873-05</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001874-02</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>012</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Јадранска 13</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001871-11</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001872-08</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>013</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Партизанска 36</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001914-76</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001915-73</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>014</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Партизанска 38</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001916-70</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001917-67</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>015</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Партизанска 55</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001919-61</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001920-58</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>016</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Партизанска 60</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001921-55</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001922-52</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>017</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Партизанска 65</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001969-08</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001970-05</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>018</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Партизанска 67 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001923-49</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001924-46</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>019</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 5/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001937-07</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001938-04</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>020</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Партизанска 89</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001925-43</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001926-40</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>021</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Васко Карангелевски 85/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001974-90</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001975-87</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>022</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Васко Карангелевски 64/2/3</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001935-13</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001936-10</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>023</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Васко Карангелевски 23</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001933-19</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001934-16</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>024</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Васко Карангелевски 85/4</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001929-31</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001930-28</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>025</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Васко Карангелевски 85/3</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001927-37</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001928-34</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>026</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Васко Карангелевски 85/5</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001972-96</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001973-93</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>027</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 3/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001978-78</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001979-75</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>028</SifraVlez>
+    <Ulica>00009</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>Младински Бригади 9</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001961-32</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001962-29</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>029</SifraVlez>
+    <Ulica>00009</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Младински Бригади 7</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001963-26</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001964-23</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>030</SifraVlez>
+    <Ulica>00009</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>21</BrojStanovi>
+    <Komentar>Младински Бригади 1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001965-20</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001966-17</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>031</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 2/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001939-98</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001940-95</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>032</SifraVlez>
+    <Ulica>00010</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Бонде Скерлевски 14 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001955-50</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001956-47</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>033</SifraVlez>
+    <Ulica>00010</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Бонде Скерлевски 8 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001957-44</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001958-41</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>034</SifraVlez>
+    <Ulica>00010</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Бонде Скерлевски 4 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001959-38</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001960-35</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>035</SifraVlez>
+    <Ulica>00011</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>11</BrojStanovi>
+    <Komentar>Народни Херои 30</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001943-86</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001944-83</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>036</SifraVlez>
+    <Ulica>00012</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>25</BrojStanovi>
+    <Komentar>Кланица 1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001945-80</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001946-77</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>037</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Игнат Атанасовски 37/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001947-74</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001948-71</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>038</SifraVlez>
+    <Ulica>00014</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>28</BrojStanovi>
+    <Komentar>Борис Кидриќ Ламела 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001949-68</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001950-65</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>039</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>ЈНА 26 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001951-62</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001952-59</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>040</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Ружа Делчева 50 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001953-56</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001954-53</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>041</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Прилепска 74 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001967-14</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001968-11</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>042</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Прилепска 21 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001976-84</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001977-81</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>043</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Јадранска 15</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001982-66</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001983-63</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>044</SifraVlez>
+    <Ulica>00009</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>Младински Бригади 5 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002100-03</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002101-97</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>045</SifraVlez>
+    <Ulica>00010</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Бонде Скерлевски 18</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001997-21</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001998-18</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>046</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Карпош 8/1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002064-14</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002065-11</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>047</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Димче Лахчански 68 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002043-77</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002044-74</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>048</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Ружа Делчева 46</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002003-03</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002004-97</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>049</SifraVlez>
+    <Ulica>00019</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Романија 51</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002008-85</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002009-82</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>050</SifraVlez>
+    <Ulica>00020</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Анести Пановски 23 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002094-21</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002095-18</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>051</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Прилепска 62А - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002102-94</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002103-91</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>052</SifraVlez>
+    <Ulica>00021</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Борис Кидриќ 5/4 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002090-33</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002091-30</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>053</SifraVlez>
+    <Ulica>00022</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Стериевски Ѓорѓи - Џоџа 2Б - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002096-15</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002097-12</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>054</SifraVlez>
+    <Ulica>00023</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Романија 41 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002005-94</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002006-91</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>055</SifraVlez>
+    <Ulica>00024</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>11-ти Март 10 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002092-27</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002093-24</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>056</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Карпош 8/3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002070-93</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002071-90</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>057</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Карпош 10/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002068-02</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002069-96</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>058</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Васко Карангелевски 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002060-26</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002061-23</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>059</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Партизанска 30 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002076-75</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002077-72</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>060</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Партизанска 15 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002078-69</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002079-66</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>061</SifraVlez>
+    <Ulica>00002</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димо Наредникот Б3/3 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002026-31</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002027-28</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>062</SifraVlez>
+    <Ulica>00002</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Димо Наредникот А1/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002024-37</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002025-34</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>063</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Ф1/4 (9/4) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002030-19</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002031-16</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>064</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Ф2/2 (7/2) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002035-04</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002036-98</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>065</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Ф2/3 (7/3) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002032-13</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002033-10</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>066</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Е2/1 (13/1) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002045-71</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002046-68</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>067</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Е2/3 (13/3)</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002039-89</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002040-86</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>068</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Е2/5 (13/5)</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002037-95</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002038-92</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>069</SifraVlez>
+    <Ulica>00026</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Трајко Тарцан 5 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002028-25</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002029-22</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>070</SifraVlez>
+    <Ulica>00027</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>30</BrojStanovi>
+    <Komentar>Кеј 19-ти Септември 1 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002022-43</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002023-40</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>071</SifraVlez>
+    <Ulica>00027</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>30</BrojStanovi>
+    <Komentar>Кеј 19-ти Септември 3 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002051-53</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002052-50</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>072</SifraVlez>
+    <Ulica>00027</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>30</BrojStanovi>
+    <Komentar>Кеј 19-ти Септември 2 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002049-59</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002050-56</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>073</SifraVlez>
+    <Ulica>00028</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Кеј 4-ти Јули 1Б - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002053-47</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002054-44</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>074</SifraVlez>
+    <Ulica>00029</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>11-ти Октомври 2/1</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002047-65</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002048-62</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>075</SifraVlez>
+    <Ulica>00030</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Иван Милутиновиќ 17 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002080-63</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002081-60</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>076</SifraVlez>
+    <Ulica>00030</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Иван Милутиновиќ 19 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002082-57</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002083-54</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>077</SifraVlez>
+    <Ulica>00030</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Иван Милутиновиќ 37/4 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002058-32</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002059-29</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>078</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 4/1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001941-92</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001942-89</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>079</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 3/4 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001931-25</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001932-22</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>080</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Партизанска 85 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002066-08</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002067-05</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>081</SifraVlez>
+    <Ulica>00031</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Минела Бабуковски 2/3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002074-81</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002075-78</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>082</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>23</BrojStanovi>
+    <Komentar>Димче Лахчански 59 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002086-45</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002087-42</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>083</SifraVlez>
+    <Ulica>00031</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Минела Бабуковски 2/1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002088-39</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002089-36</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>084</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Димче Лахчански 19 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002084-51</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002085-48</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>085</SifraVlez>
+    <Ulica>00032</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Мирка Гинова 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002098-09</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002099-06</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>086</SifraVlez>
+    <Ulica>00033</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Кеј 9-ти Септември 70/9 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002055-41</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002056-38</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>087</SifraVlez>
+    <Ulica>00029</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>29</BrojStanovi>
+    <Komentar>11-ти Октомври 1 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002020-49</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002021-46</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>088</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>23</BrojStanovi>
+    <Komentar>Карпош 8/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001999-15</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002000-12</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>089</SifraVlez>
+    <Ulica>00010</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>13</BrojStanovi>
+    <Komentar>Бонде Скерлевски 16 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290001995-27</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290001996-24</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>090</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Ружа Делчева 38 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002001-09</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002002-06</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>091</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Карпош 10/1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002136-89</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002137-86</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>092</SifraVlez>
+    <Ulica>00019</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Романија 47 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002138-83</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002139-80</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>093</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Васко Карангелевски 25 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002062-20</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002063-17</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>094</SifraVlez>
+    <Ulica>00034</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Маршал Тито 185 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002126-22</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002127-19</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>095</SifraVlez>
+    <Ulica>00034</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Маршал Тито 187 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002134-95</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002135-92</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>096</SifraVlez>
+    <Ulica>00035</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>21</BrojStanovi>
+    <Komentar>Младинска 203 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002132-04</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002133-98</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>097</SifraVlez>
+    <Ulica>00036</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>26</BrojStanovi>
+    <Komentar>Точила К4 - В - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002124-28</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002125-25</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>098</SifraVlez>
+    <Ulica>00026</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Трајко Тарцан 4 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002130-10</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002131-07</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>099</SifraVlez>
+    <Ulica>00037</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>31</BrojStanovi>
+    <Komentar>Вељко Влаховиќ 3 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002229-04</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002230-98</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>100</SifraVlez>
+    <Ulica>00038</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Никола Тесла 2/2 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002241-65</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002242-62</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>101</SifraVlez>
+    <Ulica>00028</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Кеј 4-ти Јули 1В - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002249-41</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002250-38</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>102</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Е2/4 (13-4) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002243-59</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002244-56</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>103</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>26</BrojStanovi>
+    <Komentar>Точила (Самоилова) К1-В (97) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002245-53</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002246-80</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>104</SifraVlez>
+    <Ulica>00039</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Маршал Тито 85 А - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002227-10</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002228-07</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>105</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Партизанска 46 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002194-12</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002195-09</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>106</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>ЈНА 28 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002225-16</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002226-13</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>107</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Партизанска 120 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002236-80</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002237-77</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>108</SifraVlez>
+    <Ulica>00009</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Младински Бригади 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002204-79</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-00290002205-76</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>109</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Партизанска 24 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002202-85</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002203-82</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>110</SifraVlez>
+    <Ulica>00040</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Јосиф Јосифовски 1/3 - Битола </Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002177-63</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002178-60</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>111</SifraVlez>
+    <Ulica>00024</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>11-ти Март 8 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002192-18</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002193-15</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>112</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Прилепска 62Б - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002173-75</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002174-72</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>113</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Партизанска 39 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002200-91</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002201-88</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>114</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>ЈНА 24 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002223-22</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002224-19</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>115</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Игнат Атанасовски 29 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002190-24</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002191-21</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>116</SifraVlez>
+    <Ulica>00041</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Едвард Кардељ 26 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002179-57</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002180-54</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>117</SifraVlez>
+    <Ulica>00019</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Романија 45 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002175-69</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002176-66</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>118</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Ружа Делчева 11 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002231-95</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002232-92</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>119</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>28</BrojStanovi>
+    <Komentar>Партизанска 79 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002198-97</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002199-94</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>120</SifraVlez>
+    <Ulica>00021</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>29</BrojStanovi>
+    <Komentar>Борис Кидриќ Ламела 1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002206-73</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002207-70</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>121</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Партизанска 122 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002196-06</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002197-03</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>122</SifraVlez>
+    <Ulica>00018</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Карпош 7/3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002221-28</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002222-25</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>123</SifraVlez>
+    <Ulica>00034</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>21</BrojStanovi>
+    <Komentar>Маршал Тито 180 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002214-49</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002215-46</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>124</SifraVlez>
+    <Ulica>00034</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>Маршал Тито 182 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002128-16</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002129-13</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>125</SifraVlez>
+    <Ulica>00042</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Крсто Узунов 5 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002107-79</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002108-76</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>126</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>Јадранска 5 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002233-89</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002234-86</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>127</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>12</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Димче Лахчански 30 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002267-84</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002268-81</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>128</SifraVlez>
+    <Ulica>00005</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Димче Лахчански 47 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002297-91</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002298-88</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>129</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>26</BrojStanovi>
+    <Komentar>Игнат Атанасовски 25 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002299-85</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002300-82</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>130</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Игнат Атанасовски 49 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002277-54</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002278-51</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>131</SifraVlez>
+    <Ulica>00043</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Тодор Паница 22 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002279-48</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002280-45</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>132</SifraVlez>
+    <Ulica>00043</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Тодор Паница 24 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002291-12</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002292-09</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>133</SifraVlez>
+    <Ulica>00044</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Борис Буџевски 1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002281-42</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002282-39</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>134</SifraVlez>
+    <Ulica>00044</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Борис Буџевски 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002283-36</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002284-33</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>135</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Ружа Делчева 15 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002285-30</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002286-27</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>136</SifraVlez>
+    <Ulica>00031</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Минела Бабуковски 11/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002287-24</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002288-21</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>137</SifraVlez>
+    <Ulica>00045</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Кочанска 6/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002293-06</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002294-03</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>138</SifraVlez>
+    <Ulica>00030</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>1</ZadolzuvanjeID>
+    <BrojStanovi>21</BrojStanovi>
+    <Komentar>Иван Милутиновиќ 98 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002295-97</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002296-94</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>139</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>25</BrojStanovi>
+    <Komentar>ЈНА 1/1 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002309-55</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002310-52</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>140</SifraVlez>
+    <Ulica>00034</Ulica>
+    <Mesto>00003</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Маршал Тито 188 - Струмица</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002263-96</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002264-93</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>141</SifraVlez>
+    <Ulica>00046</Ulica>
+    <Mesto>00004</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>9</BrojStanovi>
+    <Komentar>Спасо Радовишки 99 - Радовиш</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002265-90</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002266-87</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>142</SifraVlez>
+    <Ulica>00046</Ulica>
+    <Mesto>00004</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>9</BrojStanovi>
+    <Komentar>Спасо Радовишки 103 - Радовиш</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002324-10</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002325-07</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>143</SifraVlez>
+    <Ulica>00047</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>28</BrojStanovi>
+    <Komentar>Пецо Божиновски 56 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002072-87</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002073-84</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>144</SifraVlez>
+    <Ulica>00048</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Цане Василев 2/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002289-18</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002290-15</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>145</SifraVlez>
+    <Ulica>00049</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>26-та 7/3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002273-66</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002274-63</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>146</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Јадранска 7 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002275-60</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002276-57</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>147</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 5/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002271-72</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002272-69</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>148</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Партизанска 57 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002269-78</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002270-75</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>149</SifraVlez>
+    <Ulica>00011</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>Народни Херои 32 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002357-08</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002358-05</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>150</SifraVlez>
+    <Ulica>00046</Ulica>
+    <Mesto>00004</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>9</BrojStanovi>
+    <Komentar>Спасо Радовишки 107 - Радовиш</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002368-72</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002378-68</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>151</SifraVlez>
+    <Ulica>00050</Ulica>
+    <Mesto>00004</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Александар Македонски 5/2 - Радовиш</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002372-60</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002373-57</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>152</SifraVlez>
+    <Ulica>00051</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Борис Бастеро 13 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002364-84</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002365-81</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>153</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Прилепска 70 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002380-36</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002381-33</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>154</SifraVlez>
+    <Ulica>00033</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Кеј 9-ти Септември 70/7 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002366-78</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002367-75</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>155</SifraVlez>
+    <Ulica>00036</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила Д1/2 - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002376-48</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002377-45</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>156</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>Точила (Самоилова) Ф1/3 (9/3) - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002374-54</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002375-51</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>157</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>ЈНА 16 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002410-43</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002411-40</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>158</SifraVlez>
+    <Ulica>00031</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Минела Бабуковски 9 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002412-37</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002413-34</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>159</SifraVlez>
+    <Ulica>00052</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>23</BrojStanovi>
+    <Komentar>Јонче Мурџевски 3 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002414-31</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002415-28</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>160</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Ружа Делчева 7 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002378-42</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002379-39</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>161</SifraVlez>
+    <Ulica>00020</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Анести Пановски 12 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002362-90</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002363-87</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>162</SifraVlez>
+    <Ulica>00020</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Анести Пановски 27 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002454-08</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002455-05</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>163</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>219</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Партизанска 110 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002533-62</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002534-59</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>164</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>220</ZadolzuvanjeID>
+    <BrojStanovi>16</BrojStanovi>
+    <Komentar>Васко Карангелевски 64/2/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002545-26</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002530-71</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>165</SifraVlez>
+    <Ulica>00049</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>221</ZadolzuvanjeID>
+    <BrojStanovi>24</BrojStanovi>
+    <Komentar>26-та улица 9 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002537-50</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002540-41</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>166</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Игнат Атанасовски 19 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002535-56</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002536-59</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>167</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Прилепска 60/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002531-68</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002532-65</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>168</SifraVlez>
+    <Ulica>00016</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>228</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>Ружа Делчева 48 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002556-90</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002557-87</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>169</SifraVlez>
+    <Ulica>00025</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>234</ZadolzuvanjeID>
+    <BrojStanovi>26</BrojStanovi>
+    <Komentar>Точила К4-Б</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002642-26</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002643-23</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>170</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>235</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Васко Карангелевски  64/1/3</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002638-38</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002639-35</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>171</SifraVlez>
+    <Ulica>00007</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>236</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Партизанска 108</Komentar>
+    <BankaRedovenFond>Шпаркасе банка </BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002640-32</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002641-29</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>172</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>237</ZadolzuvanjeID>
+    <BrojStanovi>19</BrojStanovi>
+    <Komentar>Игнат Атанасовски 17</Komentar>
+    <BankaRedovenFond>Шпаркасе банка </BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002644-20</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002645-17</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>173</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>240</ZadolzuvanjeID>
+    <BrojStanovi>14</BrojStanovi>
+    <Komentar>ЈНА 30</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002646-14</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002647-11</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>174</SifraVlez>
+    <Ulica>00051</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>242</ZadolzuvanjeID>
+    <BrojStanovi>10</BrojStanovi>
+    <Komentar>Борис Бастеро 11</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002780-97</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002781-94</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>175</SifraVlez>
+    <Ulica>00030</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>21</BrojStanovi>
+    <Komentar>Иван Милутиновиќ 92</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002776-12</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002777-09</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>176</SifraVlez>
+    <Ulica>00015</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>246</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>ЈНА 14 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002820-74</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002821-71</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>177</SifraVlez>
+    <Ulica>00053</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>247</ZadolzuvanjeID>
+    <BrojStanovi>12</BrojStanovi>
+    <Komentar>5-та Прилепска Бригада - Прилеп</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002778-06</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002779-03</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>178</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>18</BrojStanovi>
+    <Komentar>Васко Карангелевски Ремо 6/2 - Битола</Komentar>
+    <BankaRedovenFond>Шпаркасе банка</BankaRedovenFond>
+    <BankaRezervenFond>Шпаркасе банка</BankaRezervenFond>
+    <SmetkaRedovenFond>250-0290002774-18</SmetkaRedovenFond>
+    <SmetkaRezervenFond>250-0290002775-15</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>179</SifraVlez>
+    <Ulica>00008</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>251</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Васко Карангелевски  Ремо 2/3 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008295-71</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008298-62</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>180</SifraVlez>
+    <Ulica>00054</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>13</BrojStanovi>
+    <Komentar>Маршал Тито 154/2 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008296-68</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008297-65</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>181</SifraVlez>
+    <Ulica>00013</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>256</ZadolzuvanjeID>
+    <BrojStanovi>15</BrojStanovi>
+    <Komentar>Игњат Атанасовски 31 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008294-74</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008299-59</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>182</SifraVlez>
+    <Ulica>00055</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>11</BrojStanovi>
+    <Komentar>Димитар Илиевски - Мурато 12/2 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008347-12</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008348-09</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>183</SifraVlez>
+    <Ulica>00056</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>260</ZadolzuvanjeID>
+    <BrojStanovi>28</BrojStanovi>
+    <Komentar>Генерал Васко Каренгелески 1/2</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008628-42</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008629-39</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>184</SifraVlez>
+    <Ulica>00052</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>261</ZadolzuvanjeID>
+    <BrojStanovi>30</BrojStanovi>
+    <Komentar>Јонче Мурџевски 5 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008293-77</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008300-56</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>185</SifraVlez>
+    <Ulica>00017</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>262</ZadolzuvanjeID>
+    <BrojStanovi>17</BrojStanovi>
+    <Komentar>Прилепска 60/3 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008651-70</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-0000008665-28</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>186</SifraVlez>
+    <Ulica>00029</Ulica>
+    <Mesto>00001</Mesto>
+    <ZadolzuvanjeID>263</ZadolzuvanjeID>
+    <BrojStanovi>22</BrojStanovi>
+    <Komentar>11-ти Октомври Ламела А - Прилеп</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008650-73</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-000000</SmetkaRezervenFond>
+  </tblVlez>
+  <tblVlez>
+    <SifraVlez>187</SifraVlez>
+    <Ulica>00006</Ulica>
+    <Mesto>00002</Mesto>
+    <ZadolzuvanjeID>0</ZadolzuvanjeID>
+    <BrojStanovi>20</BrojStanovi>
+    <Komentar>Јадранска 4 - Битола</Komentar>
+    <BankaRedovenFond>Стопанска банка а.д. Битола</BankaRedovenFond>
+    <BankaRezervenFond>Стопанска банка а.д. Битола</BankaRezervenFond>
+    <SmetkaRedovenFond>500-0000008652-67</SmetkaRedovenFond>
+    <SmetkaRezervenFond>500-000000</SmetkaRezervenFond>
+  </tblVlez>
+</DocumentElement>

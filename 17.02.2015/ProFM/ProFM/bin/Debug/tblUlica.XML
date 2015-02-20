@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tblUlica>
+    <Oznaka>00001</Oznaka>
+    <Ime>Марксова</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00002</Oznaka>
+    <Ime>Димо Наредникот</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00003</Oznaka>
+    <Ime>Моша Пијаде</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00004</Oznaka>
+    <Ime>Точила - Војводинска</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00005</Oznaka>
+    <Ime>Димче Лахчански</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00006</Oznaka>
+    <Ime>Јадранска</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00007</Oznaka>
+    <Ime>Партизанска</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00008</Oznaka>
+    <Ime>Васко Карангелевски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00009</Oznaka>
+    <Ime>Младински Бригади</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00010</Oznaka>
+    <Ime>Бонде Скерлевски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00011</Oznaka>
+    <Ime>Народни Херои</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00012</Oznaka>
+    <Ime>Кланица</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00013</Oznaka>
+    <Ime>Игнат Атанасовски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00014</Oznaka>
+    <Ime>Борис Кидриќ</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00015</Oznaka>
+    <Ime>ЈНА</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00016</Oznaka>
+    <Ime>Ружа Делчева</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00017</Oznaka>
+    <Ime>Прилепска</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00018</Oznaka>
+    <Ime>Карпош</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00019</Oznaka>
+    <Ime>Романија</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00020</Oznaka>
+    <Ime>Анести Пановски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00021</Oznaka>
+    <Ime>Борис Кидриќ</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00022</Oznaka>
+    <Ime>Стериевски Ѓорѓи - Џоџа</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00023</Oznaka>
+    <Ime>Романија</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00024</Oznaka>
+    <Ime>11-ти Март</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00025</Oznaka>
+    <Ime>Точила - Самоилова</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00026</Oznaka>
+    <Ime>Трајко Тарцан</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00027</Oznaka>
+    <Ime>Кеј 19-ти Септември</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00028</Oznaka>
+    <Ime>Кеј 4-ти Јули</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00029</Oznaka>
+    <Ime>11-ти Октомври</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00030</Oznaka>
+    <Ime>Иван Милутиновиќ</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00031</Oznaka>
+    <Ime>Минела Бабуковски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00032</Oznaka>
+    <Ime>Мирка Гинова</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00033</Oznaka>
+    <Ime>Кеј 9-ти Септември</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00034</Oznaka>
+    <Ime>Маршал Тито</Ime>
+    <Komentar>СТРУМИЦА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00035</Oznaka>
+    <Ime>Младинска</Ime>
+    <Komentar>СТРУМИЦА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00036</Oznaka>
+    <Ime>Точила</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00037</Oznaka>
+    <Ime>Вељко Влаховиќ</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00038</Oznaka>
+    <Ime>Никола Тесла</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00039</Oznaka>
+    <Ime>Маршал Тито</Ime>
+    <Komentar>ПРИЛЕП</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00040</Oznaka>
+    <Ime>Јосиф Јосифовски</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00041</Oznaka>
+    <Ime>Едвард Кардељ</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00042</Oznaka>
+    <Ime>Крсто Узунов</Ime>
+    <Komentar>СТРУМИЦА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00043</Oznaka>
+    <Ime>Тодор Паница</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00044</Oznaka>
+    <Ime>Борис Буџевски</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00045</Oznaka>
+    <Ime>Кочанска</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00046</Oznaka>
+    <Ime>Спасо Радовишки</Ime>
+    <Komentar>РАДОВИШ</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00047</Oznaka>
+    <Ime>Пецо Божиновски </Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00048</Oznaka>
+    <Ime>Цане Василев </Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00049</Oznaka>
+    <Ime>26-та</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00050</Oznaka>
+    <Ime>Александар Македонски</Ime>
+    <Komentar>РАДОВИШ</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00051</Oznaka>
+    <Ime>Борис Бастеро</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00052</Oznaka>
+    <Ime>Јонче Мурџевски</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00053</Oznaka>
+    <Ime>5-та Прилепска Бригада</Ime>
+    <Komentar>ПРИЛЕП</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00054</Oznaka>
+    <Ime>Маршал Тито</Ime>
+    <Komentar>БИТОЛА</Komentar>
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00055</Oznaka>
+    <Ime>Димитар Илиевски - Мурато</Ime>
+    <Komentar />
+  </tblUlica>
+  <tblUlica>
+    <Oznaka>00056</Oznaka>
+    <Ime>Генерал Васко Карангелески</Ime>
+    <Komentar>ПРИЛЕП</Komentar>
+  </tblUlica>
+</DocumentElement>

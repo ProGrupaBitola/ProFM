@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BazaProFM" Class="ProFMModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PROGRUPA;Initial Catalog=BazaProFM;Integrated Security=True" SettingsObjectName="ProFM.Properties.Settings" SettingsPropertyName="BazaProFMConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblDogovori" Member="tblDogovoris">
+    <Type Name="tblDogovori">
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDDogovor" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="br_dogovor" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="od" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="do" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_upravuvanje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="iznos_cistenje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="br_stanovi_cistenje" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblFaktura_Dobavuvaci" Member="tblFaktura_Dobavuvacis">
+    <Type Name="tblFaktura_Dobavuvaci">
+      <Column Name="ID_faktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_dobavuvac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="valuta_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_faktura" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="cel_na_doznaka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="isPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblFakturi_Zgradi" Member="tblFakturi_Zgradis">
+    <Type Name="tblFakturi_Zgradi">
+      <Column Name="IDfaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="datum_faktura" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="iznos" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="struja" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="cistenje" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="upravitel" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="voda" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="kanalizacija" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="lift" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="datum_na_valuta" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="datum_na_priem" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="datum_na_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblZgrada_tblFakturi_Zgradi" Member="tblZgrada" ThisKey="IDfaktura" OtherKey="ID" Type="tblZgrada" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniKopiiOdFakturaZaSopstvenici" Member="tblIzdadeniKopiiOdFakturaZaSopstvenicis">
+    <Type Name="tblIzdadeniKopiiOdFakturaZaSopstvenici">
+      <Column Name="ID_Kopija" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_izdavanje_kopija" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOdnesuvanje_Stanar" Member="tblOdnesuvanje_Stanars">
+    <Type Name="tblOdnesuvanje_Stanar">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDOdnesuvanje" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="odnesuvanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="predlozi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="baranja" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSostanociZgradi" Member="tblSostanociZgradis">
+    <Type Name="tblSostanociZgradi">
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDSostanok" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="data_sostanok" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="reden_br_sostanok" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cas" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="mesto" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="pricina" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="inicijator_FL" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="inicijator_br_stan" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="br_prisutni" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dneven_red" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="odluki" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="beleski" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblZgrada_tblSostanociZgradi" Member="tblZgrada" ThisKey="IDZgrada" OtherKey="ID" Type="tblZgrada" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblStanovi" Member="tblStanovis">
+    <Type Name="tblStanovi">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="br_stan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_kat" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="kvadratura" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="komentar" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblUplati_Stanari" Member="tblUplati_Stanaris">
+    <Type Name="tblUplati_Stanari">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDUplata" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="data_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="struja" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cistenje" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="upravitel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="voda" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="kanalizacija" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lift" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="rezerven_fond" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_IzdadeniKarticiZgrada" Member="tbl_IzdadeniKarticiZgradas">
+    <Type Name="tbl_IzdadeniKarticiZgrada">
+      <Column Name="ID_FinansiskaKartica" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSaldoZgrada" Member="tblSaldoZgradas">
+    <Type Name="tblSaldoZgrada">
+      <Column Name="ID_Saldo" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="saldo" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniKopiiFakturiCistenjeStanar" Member="tblIzdadeniKopiiFakturiCistenjeStanars">
+    <Type Name="tblIzdadeniKopiiFakturiCistenjeStanar">
+      <Column Name="ID_Kopija" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_izdavanje_kopija" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPrviOpomeniPredTuzba" Member="tblPrviOpomeniPredTuzbas">
+    <Type Name="tblPrviOpomeniPredTuzba">
+      <Column Name="IDOpomena" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brOpomena" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brojacGodina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVtoriOpomeniPredTuzba" Member="tblVtoriOpomeniPredTuzbas">
+    <Type Name="tblVtoriOpomeniPredTuzba">
+      <Column Name="IDOpomena" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brOpomena" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brojacGodina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzvodi" Member="tblIzvodis">
+    <Type Name="tblIzvodi">
+      <Column Name="ID_izvod" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_stanar" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_dobavuvac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="banka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="smetka_banka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_izvod" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="uplati" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="isplati" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="uplata_avans" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="povikuvacki_broj" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="datum_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="isUplataDoMaj" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSopstvenici_Stan" Member="tblSopstvenici_Stans">
+    <Type Name="tblSopstvenici_Stan">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDSopstvenik" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ime_sopstvenik" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="prezime_sopstvenik" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EMBG" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="telefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="e_mail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IsZiveeVoStan" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="adresa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="grad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IsStanari" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="do" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="od" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanat_dolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="katastarska_parcela" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_licna_karta" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_imoten_list" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolgMaj2014" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="zaostantDolg2013" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="isPasivenSopstvenik" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="dolgZaOpomena" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="datumDolgOpomenaOd" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblZgrada" Member="tblZgradas">
+    <Type Name="tblZgrada">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sifra" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ulica_br" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="grad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="postenski_broj" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="br_stanovi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Is_rezerven_fond" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ime_bankaEden" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_redoven_fond_Stopanska" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_rezerven_fond_Stopanska" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_redoven_fond_Sparkase" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_rezerven_fond_Sparkase" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ime_bankaDva" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="usluga_cistenje" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="usluga_upravitel" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="br_katovi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaednicaStanari" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="sePlakaPoSopstvenici" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="tblZgrada_tblFakturi_Zgradi" Member="tblFakturi_Zgradis" ThisKey="ID" OtherKey="IDfaktura" Type="tblFakturi_Zgradi" />
+      <Association Name="tblZgrada_tblSostanociZgradi" Member="tblSostanociZgradis" ThisKey="ID" OtherKey="IDZgrada" Type="tblSostanociZgradi" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblZaostanatDolg_ZgradaKonUpravitel" Member="tblZaostanatDolg_ZgradaKonUpravitels">
+    <Type Name="tblZaostanatDolg_ZgradaKonUpravitel">
+      <Column Name="ID_ZaostanatDolg" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="zaostanatDolg_cistenje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="zaostanatDolg_upravuvanje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vkupenZaostanatDolg2013" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vkupenZaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="zaostanatDolgRezervenFond" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="zaostanatDolg_Boja" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPecatenjeFinansiskaKarticaZgradaUpravitel" Member="tblPecatenjeFinansiskaKarticaZgradaUpravitels">
+    <Type Name="tblPecatenjeFinansiskaKarticaZgradaUpravitel">
+      <Column Name="ID_Finansiska_Kartica" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dataPecatenje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPrvaOpomenaPredTuzbaZaednicaStanovi" Member="tblPrvaOpomenaPredTuzbaZaednicaStanovis">
+    <Type Name="tblPrvaOpomenaPredTuzbaZaednicaStanovi">
+      <Column Name="IDOpomena" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brOpomena" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brojacGodina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVtoriOpomeniPredTuzbaZaednicaStanari" Member="tblVtoriOpomeniPredTuzbaZaednicaStanaris">
+    <Type Name="tblVtoriOpomeniPredTuzbaZaednicaStanari">
+      <Column Name="IDOpomena" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brOpomena" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="brojacGodina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblArhivskiBrUpravitel" Member="tblArhivskiBrUpravitels">
+    <Type Name="tblArhivskiBrUpravitel">
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="arhivskiBroj" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godBrojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniFakturiZaUpravuvanje" Member="tblIzdadeniFakturiZaUpravuvanjes">
+    <Type Name="tblIzdadeniFakturiZaUpravuvanje">
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="faktura_mesec" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mesto_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rok_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="faktura_podgotvi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_upravuvanje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DDV" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vkupno_iznos" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ziro_smetka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godina_brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="isPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniFakturiBoja" Member="tblIzdadeniFakturiBojas">
+    <Type Name="tblIzdadeniFakturiBoja">
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="faktura_mesec" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mesto_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rok_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="faktura_podgotvi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_boja" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DDV" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vkupno_iznos" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ziro_smetka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godina_brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="isPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniFakturiCistenjeStanovi" Member="tblIzdadeniFakturiCistenjeStanovis">
+    <Type Name="tblIzdadeniFakturiCistenjeStanovi">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznosCistenje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="iznosDDV" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vkupenIznos" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="datum_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IsPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mestoNaIzdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godina_brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="faktura_podgotvi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniFakturiZaCistenje" Member="tblIzdadeniFakturiZaCistenjes">
+    <Type Name="tblIzdadeniFakturiZaCistenje">
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="faktura_mesec" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mesto_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="rok_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="faktura_podgotvi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_cistenje" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DDV" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vkupno_iznos" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ziro_smetka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_upravitel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godina_brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="isPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblArhivskiBrojZgradi" Member="tblArhivskiBrojZgradis">
+    <Type Name="tblArhivskiBrojZgradi">
+      <Column Name="ID_ArhivskiBr" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="arhivskiBroj" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godBrojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IDZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblDobavuvaci" Member="tblDobavuvacis">
+    <Type Name="tblDobavuvaci">
+      <Column Name="ID_dobavuvac" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dobavuvac" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="sifra" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="danocen_br" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_eden" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ziro_smetka_dva" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="adresa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="lice_za_kontakt" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="telefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[e-mail]" Member="e_mail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="veb_sajt" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_eden" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="banka_dva" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="grad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="postenskiBroj" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPecatenje_FinansiskaKarticaStanar" Member="tblPecatenje_FinansiskaKarticaStanars">
+    <Type Name="tblPecatenje_FinansiskaKarticaStanar">
+      <Column Name="ID_Finansiska_Kartica" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_Stan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dataPecatenje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOdluka" Member="tblOdlukas">
+    <Type Name="tblOdluka">
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ID_Odluka" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="br_na_odluka" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="od" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="do" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_cistenje" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_upravitel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_struja" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_voda" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_kanalizacija" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_lift" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="iznos_rezerven_fond" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="datum_odluka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="drugo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="isStornirana" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="isUpravitelStorn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="isZgradaStorn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="dataStorn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="iznos_bankarska_provizija" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="iznos_hausMajstor" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOslobodeniStan" Member="tblOslobodeniStans">
+    <Type Name="tblOslobodeniStan">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDOsloboden" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="struja" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="cistenje" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="upravitel" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="voda" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="kanalizacija" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="lift" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="rezerven_fond" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="drugo" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="od" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="do" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="isStornirana" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="isUpravitelStorn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="isZgradaStorn" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="odlukaBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datumOdluka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datumStorn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ID_Zgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="bankarska_provizija" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="hausMajstor" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ZgradaFondovi" Member="ZgradaFondovis">
+    <Type Name="ZgradaFondovi">
+      <Column Name="idFond" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idZgrada" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fondStruja" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondVoda" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondKanalizacija" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondLift" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondHigena" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondUpravitel" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondDrugo" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondRF" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondBankarskaProvizija" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="fondHausMajstor" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblVraboteni" Member="tblVrabotenis">
+    <Type Name="tblVraboteni">
+      <Column Name="ID_vraboten" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="lozinka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="uloga" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblIzdadeniFakturi" Member="tblIzdadeniFakturis">
+    <Type Name="tblIzdadeniFakturi">
+      <Column Name="IDStan" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDFaktura" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="br_faktura" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="datum" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="iznos" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="IsPlatena" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="struja" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="voda" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="kanalizacija" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lift" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="rezerven_fond" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="cistenje" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="upravitel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="drugo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum_izdavanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="datum_plakanje" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_dogovor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum_dogovor" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="br_odluka" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datum_odluka" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zaostanatDolg" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="vraboteno_lice" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="vreme_napraveni_promeni" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="trosociTuzba" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="bankarska_provizija" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IDArhivskiBr" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="hausMajstor" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="brojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="godBrojac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

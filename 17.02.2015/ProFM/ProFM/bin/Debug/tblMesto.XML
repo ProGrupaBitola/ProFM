@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tblMesto>
+    <Sifra>00001</Sifra>
+    <Opstina>00001</Opstina>
+    <Ime>Прилеп</Ime>
+    <PostenskiBroj>7500</PostenskiBroj>
+    <Komentar />
+  </tblMesto>
+  <tblMesto>
+    <Sifra>00002</Sifra>
+    <Opstina>00002</Opstina>
+    <Ime>Битола</Ime>
+    <PostenskiBroj>7000</PostenskiBroj>
+    <Komentar />
+  </tblMesto>
+  <tblMesto>
+    <Sifra>00003</Sifra>
+    <Opstina>00003</Opstina>
+    <Ime>Струмица</Ime>
+    <PostenskiBroj>2400</PostenskiBroj>
+    <Komentar />
+  </tblMesto>
+  <tblMesto>
+    <Sifra>00004</Sifra>
+    <Opstina>00004</Opstina>
+    <Ime>Радовиш</Ime>
+    <PostenskiBroj>2420</PostenskiBroj>
+    <Komentar />
+  </tblMesto>
+</DocumentElement>
