@@ -4841,3 +4841,6 @@ E:\RS Bobi\verzii na softverot\2015\12.02.2015-seriski br\ProFM\ProFM\obj\Debug\
 E:\RS Bobi\verzii na softverot\2015\17.02.2015\ProFM\ProFM\bin\Debug\ProFM.exe.config
 E:\RS Bobi\verzii na softverot\2015\17.02.2015\ProFM\ProFM\obj\Debug\ProFM.exe
 E:\RS Bobi\verzii na softverot\2015\17.02.2015\ProFM\ProFM\obj\Debug\ProFM.pdb
+C:\Users\Kristina Razmoska\Source\Repos\ProFM\17.02.2015\ProFM\ProFM\bin\Debug\ProFM.exe.config
+C:\Users\Kristina Razmoska\Source\Repos\ProFM\17.02.2015\ProFM\ProFM\obj\Debug\ProFM.exe
+C:\Users\Kristina Razmoska\Source\Repos\ProFM\17.02.2015\ProFM\ProFM\obj\Debug\ProFM.pdb

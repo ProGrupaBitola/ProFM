@@ -1401,6 +1401,7 @@ namespace ProFM
 
         private void btnNajava_Click(object sender, EventArgs e)
         {
+            //komentar
             bool boolAvtentificiran = false;
             string uloga = "";
 
